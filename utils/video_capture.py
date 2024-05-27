@@ -1,6 +1,4 @@
 import cv2
-import numpy as np
-import pyautogui
 from datetime import datetime
 from utils.myquiz import *
 import os
