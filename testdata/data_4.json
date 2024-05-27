@@ -1,0 +1,77 @@
+{
+  "ques": [
+    "Q1. What is Java?",
+    "Q2. What are the main features of Java?",
+    "Q3. What is the difference between JDK, JRE, and JVM?",
+    "Q4. What is a class in Java?",
+    "Q5. What is an object in Java?",
+    "Q6. What is inheritance in Java?",
+    "Q7. What is polymorphism in Java?",
+    "Q8. What is an interface in Java?",
+    "Q9. What is an abstract class in Java?",
+    "Q10. What is the difference between == and equals() method in Java?"
+  ],
+  "ans": [1, 2, 3, 4, 1, 2, 3, 4, 1, 2],
+  "choices": [
+    [
+      "A programming language",
+      "A web browser",
+      "An operating system",
+      "A database management system"
+    ],
+    [
+      "Simple, Object-Oriented, Portable, Platform Independent, Secured, Robust, Multithreaded, Architecture-neutral",
+      "Simple, Object-Based, Portable, Platform Dependent, Secure, Robust, Multithreaded, Architecture-neutral",
+      "Complex, Object-Oriented, Portable, Platform Independent, Secured, Robust, Multithreaded, Architecture-neutral",
+      "Simple, Object-Oriented, Portable, Platform Dependent, Secured, Robust, Multithreaded, Architecture-neutral"
+    ],
+    [
+      "JDK contains JRE and development tools, JRE contains JVM and core libraries, JVM executes Java bytecode",
+      "JDK contains JVM and core libraries, JRE contains JRE and development tools, JVM executes Java bytecode",
+      "JDK contains JVM and core libraries, JRE contains JRE and development tools, JVM executes Java source code",
+      "JDK contains JRE and development tools, JRE contains JVM and core libraries, JVM executes Java source code"
+    ],
+    [
+      "A blueprint for creating objects",
+      "An instance of a class",
+      "A method in a class",
+      "A variable in a class"
+    ],
+    [
+      "An instance of a class",
+      "A blueprint for creating objects",
+      "A method in a class",
+      "A variable in a class"
+    ],
+    [
+      "The process of acquiring the properties and behaviors of a parent class",
+      "The process of hiding the implementation details",
+      "The process of overriding a method",
+      "The process of implementing an interface"
+    ],
+    [
+      "The ability of an object to take multiple forms",
+      "The ability to hide the implementation details",
+      "The process of acquiring the properties and behaviors of a parent class",
+      "The process of implementing an interface"
+    ],
+    [
+      "A reference type in Java that can contain only abstract methods and constants",
+      "A class that cannot be instantiated",
+      "A method in a class",
+      "A variable in a class"
+    ],
+    [
+      "A class that cannot be instantiated and may contain abstract methods",
+      "A reference type in Java that can contain only abstract methods and constants",
+      "A method in a class",
+      "A variable in a class"
+    ],
+    [
+      "The == operator compares references, while the equals() method compares the contents of objects",
+      "The == operator compares the contents of objects, while the equals() method compares references",
+      "The == operator is used for comparison in Java, while equals() is not",
+      "There is no difference between == and equals()"
+    ]
+  ]
+}

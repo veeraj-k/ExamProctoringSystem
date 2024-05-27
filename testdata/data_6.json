@@ -1,0 +1,77 @@
+{
+  "ques": [
+    "Q1. What is Go?",
+    "Q2. What are the main features of Go?",
+    "Q3. What is the difference between Go and other programming languages?",
+    "Q4. What is a variable in Go?",
+    "Q5. What is a function in Go?",
+    "Q6. What is a package in Go?",
+    "Q7. What is a slice in Go?",
+    "Q8. What is a struct in Go?",
+    "Q9. What is a map in Go?",
+    "Q10. What is a loop in Go?"
+  ],
+  "ans": [1, 2, 3, 4, 1, 2, 3, 4, 1, 2],
+  "choices": [
+    [
+      "A programming language",
+      "A snake species",
+      "A database management system",
+      "A web framework"
+    ],
+    [
+      "Efficient and fast, Concurrency support, Garbage collection, Static typing, Simple syntax, Built-in testing and benchmarking, Cross-platform support",
+      "Complex and difficult to learn, Limited concurrency support, Manual memory management, Dynamic typing, Complex syntax, No built-in testing and benchmarking, Platform-specific",
+      "Efficient and fast, Limited concurrency support, Garbage collection, Static typing, Simple syntax, No built-in testing and benchmarking, Cross-platform support",
+      "Complex and difficult to learn, Concurrency support, Manual memory management, Dynamic typing, Complex syntax, Built-in testing and benchmarking, Platform-specific"
+    ],
+    [
+      "Go is designed for simplicity and readability, with a focus on performance and efficiency",
+      "Go has a similar syntax to other programming languages, but with unique features and design principles",
+      "There is no significant difference between Go and other programming languages",
+      "Go is a low-level language with direct memory access and manual memory management"
+    ],
+    [
+      "A named storage location that holds a value of a specific type",
+      "A reserved keyword",
+      "A statement in Go",
+      "A container to store data"
+    ],
+    [
+      "A reusable block of code that performs a specific task",
+      "A variable in Go",
+      "A reserved keyword",
+      "A statement in Go"
+    ],
+    [
+      "A collection of Go source files that are compiled together",
+      "A variable in Go",
+      "A statement in Go",
+      "A reserved keyword"
+    ],
+    [
+      "A dynamically-sized, flexible view into the elements of an array",
+      "An ordered collection of items that cannot be changed",
+      "A reserved keyword",
+      "A statement in Go"
+    ],
+    [
+      "A user-defined composite type that contains named fields",
+      "An ordered collection of items that can be changed",
+      "A reserved keyword",
+      "A statement in Go"
+    ],
+    [
+      "A collection of key-value pairs",
+      "A variable in Go",
+      "A statement in Go",
+      "A reserved keyword"
+    ],
+    [
+      "A control flow statement that allows code to be executed repeatedly",
+      "A variable in Go",
+      "A statement in Go",
+      "A reserved keyword"
+    ]
+  ]
+}

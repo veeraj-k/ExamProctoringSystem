@@ -1,0 +1,77 @@
+{
+  "ques": [
+    "Q1. What is Python?",
+    "Q2. What are the main features of Python?",
+    "Q3. What is the difference between Python 2 and Python 3?",
+    "Q4. What is a variable in Python?",
+    "Q5. What is a function in Python?",
+    "Q6. What is a module in Python?",
+    "Q7. What is a list in Python?",
+    "Q8. What is a tuple in Python?",
+    "Q9. What is a dictionary in Python?",
+    "Q10. What is a loop in Python?"
+  ],
+  "ans": [1, 2, 3, 4, 1, 2, 3, 4, 1, 2],
+  "choices": [
+    [
+      "A programming language",
+      "A snake species",
+      "A database management system",
+      "A web framework"
+    ],
+    [
+      "Simple and easy to learn, Free and open-source, High-level language, Interpreted, Dynamically typed, Object-oriented, Extensive library support",
+      "Complex and difficult to learn, Paid and closed-source, Low-level language, Compiled, Statically typed, Procedural, Limited library support",
+      "Simple and easy to learn, Paid and closed-source, High-level language, Compiled, Dynamically typed, Procedural, Extensive library support",
+      "Complex and difficult to learn, Free and open-source, Low-level language, Interpreted, Statically typed, Procedural, Limited library support"
+    ],
+    [
+      "Python 3 is the latest version with several improvements over Python 2",
+      "Python 2 is the latest version with several improvements over Python 3",
+      "There is no difference between Python 2 and Python 3",
+      "Python 2 is no longer supported and all new development should be in Python 3"
+    ],
+    [
+      "A container to store data",
+      "A reserved keyword",
+      "A statement in Python",
+      "A named location to store a value"
+    ],
+    [
+      "A reusable block of code that performs a specific task",
+      "A variable in Python",
+      "A reserved keyword",
+      "A statement in Python"
+    ],
+    [
+      "A file containing Python code that can be executed",
+      "A variable in Python",
+      "A statement in Python",
+      "A reserved keyword"
+    ],
+    [
+      "An ordered collection of items that can be changed",
+      "An unordered collection of items that cannot be changed",
+      "A reserved keyword",
+      "A statement in Python"
+    ],
+    [
+      "An ordered collection of items that cannot be changed",
+      "An unordered collection of items that can be changed",
+      "A reserved keyword",
+      "A statement in Python"
+    ],
+    [
+      "A collection of key-value pairs",
+      "A variable in Python",
+      "A statement in Python",
+      "A reserved keyword"
+    ],
+    [
+      "A control flow statement that allows code to be executed repeatedly",
+      "A variable in Python",
+      "A statement in Python",
+      "A reserved keyword"
+    ]
+  ]
+}

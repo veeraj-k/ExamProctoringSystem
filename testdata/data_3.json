@@ -1,0 +1,77 @@
+{
+  "ques": [
+    "Q1. What is a database in DBMS?",
+    "Q2. What is a DBMS?",
+    "Q3. What is a DBMS schema?",
+    "Q4. What is normalization in DBMS?",
+    "Q5. What is a primary key in DBMS?",
+    "Q6. What is a foreign key in DBMS?",
+    "Q7. What is a SQL query?",
+    "Q8. What is an SQL join?",
+    "Q9. What is ACID properties in DBMS?",
+    "Q10. What is the difference between DBMS and RDBMS?"
+  ],
+  "ans": [1, 2, 3, 4, 1, 2, 3, 4, 1, 2],
+  "choices": [
+    [
+      "A structured collection of data",
+      "A programming language",
+      "A networking protocol",
+      "A web server"
+    ],
+    [
+      "A software system that manages databases",
+      "A network protocol",
+      "A programming language",
+      "A web server"
+    ],
+    [
+      "A logical design of the entire database",
+      "A programming language",
+      "A network protocol",
+      "A data structure"
+    ],
+    [
+      "A process of organizing data to minimize redundancy",
+      "A programming language",
+      "A network protocol",
+      "A database language"
+    ],
+    [
+      "An attribute or combination of attributes that uniquely identifies a record",
+      "A programming language",
+      "A network protocol",
+      "A database model"
+    ],
+    [
+      "A field in a table that references the primary key of another table",
+      "A programming language",
+      "A network protocol",
+      "A database constraint"
+    ],
+    [
+      "A command used to retrieve data from a database",
+      "A programming language",
+      "A network protocol",
+      "A database server"
+    ],
+    [
+      "A method to combine records from two or more tables",
+      "A programming language",
+      "A network protocol",
+      "A database language"
+    ],
+    [
+      "A set of properties that guarantee database transactions are processed reliably",
+      "A programming language",
+      "A network protocol",
+      "A database model"
+    ],
+    [
+      "DBMS is a software system and RDBMS is a type of DBMS that follows the relational model",
+      "DBMS is a type of RDBMS",
+      "There is no difference",
+      "DBMS and RDBMS are the same thing"
+    ]
+  ]
+}

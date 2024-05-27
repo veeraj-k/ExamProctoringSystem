@@ -1,0 +1,77 @@
+{
+  "ques": [
+    "Q1. What is inheritance in OOP?",
+    "Q2. What is encapsulation in OOP?",
+    "Q3. What is polymorphism in OOP?",
+    "Q4. What is a class in OOP?",
+    "Q5. What is an object in OOP?",
+    "Q6. What is a constructor in OOP?",
+    "Q7. What is a destructor in OOP?",
+    "Q8. What is a method in OOP?",
+    "Q9. What is an interface in OOP?",
+    "Q10. What is an abstract class in OOP?"
+  ],
+  "ans": [1, 2, 3, 4, 1, 2, 3, 4, 1, 2],
+  "choices": [
+    [
+      "A mechanism to create a new class from an existing class",
+      "A process to hide data within a class",
+      "A technique to combine multiple methods into one",
+      "A method to override an existing method"
+    ],
+    [
+      "A process to combine data and functions into a single unit",
+      "A process to hide data within a class",
+      "A technique to reuse code",
+      "A method to override an existing method"
+    ],
+    [
+      "The ability of an object to take multiple forms",
+      "A process to hide data within a class",
+      "A mechanism to create a new class from an existing class",
+      "A technique to combine multiple methods into one"
+    ],
+    [
+      "A blueprint for creating objects",
+      "A mechanism to create a new class from an existing class",
+      "A technique to combine multiple methods into one",
+      "A method to override an existing method"
+    ],
+    [
+      "An instance of a class",
+      "A blueprint for creating objects",
+      "A mechanism to create a new class from an existing class",
+      "A technique to combine multiple methods into one"
+    ],
+    [
+      "A special method called when an object is created",
+      "A method to override an existing method",
+      "A technique to combine multiple methods into one",
+      "A process to hide data within a class"
+    ],
+    [
+      "A special method called when an object is destroyed",
+      "A mechanism to create a new class from an existing class",
+      "A technique to combine multiple methods into one",
+      "A process to hide data within a class"
+    ],
+    [
+      "A function defined inside a class",
+      "A process to hide data within a class",
+      "A technique to combine multiple methods into one",
+      "A method to override an existing method"
+    ],
+    [
+      "A contract for classes to implement",
+      "A process to hide data within a class",
+      "A mechanism to create a new class from an existing class",
+      "A technique to combine multiple methods into one"
+    ],
+    [
+      "A class that cannot be instantiated",
+      "A process to hide data within a class",
+      "A mechanism to create a new class from an existing class",
+      "A technique to combine multiple methods into one"
+    ]
+  ]
+}

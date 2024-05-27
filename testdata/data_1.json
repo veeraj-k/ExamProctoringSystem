@@ -1,0 +1,77 @@
+{
+  "ques": [
+    "Q1. What is a process in Operating System?",
+    "Q2. What is a thread in Operating System?",
+    "Q3. What is the purpose of a scheduler in an OS?",
+    "Q4. What is a semaphore in Operating System?",
+    "Q5. What is virtual memory in an OS?",
+    "Q6. What is deadlock in an OS?",
+    "Q7. What is the purpose of the interrupt in an OS?",
+    "Q8. What is demand paging in an OS?",
+    "Q9. What is a file system in an OS?",
+    "Q10. What is a kernel in Operating System?"
+  ],
+  "ans": [1, 2, 3, 4, 1, 2, 3, 4, 1, 2],
+  "choices": [
+    [
+      "A program in execution",
+      "A text file",
+      "A computer hardware",
+      "A network device"
+    ],
+    [
+      "A lightweight process",
+      "A process in execution",
+      "A memory block",
+      "A device driver"
+    ],
+    [
+      "To manage processes and resources",
+      "To print documents",
+      "To browse the internet",
+      "To compile programs"
+    ],
+    [
+      "A synchronization tool",
+      "A network protocol",
+      "An error handling mechanism",
+      "A disk storage format"
+    ],
+    [
+      "A memory management technique",
+      "A network protocol",
+      "A file compression method",
+      "A system utility"
+    ],
+    [
+      "A situation where two or more processes wait for each other",
+      "A file system corruption",
+      "A hardware failure",
+      "A network congestion"
+    ],
+    [
+      "To handle hardware signals",
+      "To manage system memory",
+      "To allocate system resources",
+      "To monitor system performance"
+    ],
+    [
+      "A memory management technique",
+      "A file system structure",
+      "A process scheduling method",
+      "A network protocol"
+    ],
+    [
+      "A data structure to organize files",
+      "A backup storage device",
+      "A network interface card",
+      "A system utility"
+    ],
+    [
+      "The core component of an OS",
+      "A hardware device",
+      "A user interface",
+      "A peripheral device"
+    ]
+  ]
+}
